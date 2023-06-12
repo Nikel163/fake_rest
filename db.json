@@ -1,0 +1,6 @@
+{
+	"auth": "random jwt token from server",
+	"articles": [
+		{ "id": 1, "name": "article1", "author": "NikGer" }
+	]
+}
