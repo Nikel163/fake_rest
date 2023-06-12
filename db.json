@@ -3,6 +3,7 @@
     "token": "random jwt token from server"
   },
   "articles": [
-    { "id": 1, "name": "article1", "author": "NikGer" }
+    { "id": 1, "name": "article1", "author": "NikGer" },
+    { "id": 2, "name": "article2", "author": "NikG2er" }
   ]
 }
